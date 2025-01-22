@@ -1,0 +1,9 @@
+.header-box-main{
+    padding: 0px 4px 16px;
+    display: flex;
+    justify-content: space-between;
+}
+.header-right{
+    /* gap: 4px; */
+    height: 7vh;
+}
